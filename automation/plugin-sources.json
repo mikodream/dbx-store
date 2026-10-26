@@ -37,6 +37,11 @@
       "autoUpdate": true
     },
     {
+      "repository": "allran/dbx-plugin-process",
+      "metadataPath": ".dbx-store.json",
+      "autoUpdate": true
+    },
+    {
       "repository": "alvinades98/dbx-pg-restore",
       "metadataPath": ".dbx-store.json",
       "autoUpdate": true
@@ -137,6 +142,11 @@
       "autoUpdate": true
     },
     {
+      "repository": "mikodream/ratel-dbx",
+      "metadataPath": ".dbx-store.json",
+      "autoUpdate": true
+    },
+    {
       "repository": "mugongliu1/dbx-terminal-launcher",
       "metadataPath": ".dbx-store.json",
       "autoUpdate": true
@@ -213,11 +223,6 @@
     },
     {
       "repository": "zhengcan/dbx-notebook",
-      "metadataPath": ".dbx-store.json",
-      "autoUpdate": true
-    },
-    {
-      "repository": "mikodream/ratel-dbx",
       "metadataPath": ".dbx-store.json",
       "autoUpdate": true
     }
